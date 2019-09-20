@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 monse
 A
 <<<<<< HEAD
+=======
+/* Rafael Norman Saucedo Delgado */
+<<<<<<< HEAD
+>>>>>>> 38f740b1fb74447a03ca16a49439ac628046e653
 <<<<<<< HEAD
 =======
 #include <stdlib.h>
