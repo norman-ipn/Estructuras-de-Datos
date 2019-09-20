@@ -4,15 +4,14 @@
 #include <stdlib.h>
 >>>>>>> e8dcfdfe352f29fec0dcc0ab19c8f58be651e089
 #include <stdio.h>
-
+//Samuel barrios Avila 
 int
 main (void)
 {
 <<<<<<< HEAD
   printf ("Hola mundo?\n");
-
+	printf("Samuel Barrios A.");
   return 0;
-
 
 =======
 
