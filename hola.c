@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //David Toledo Heredia
 
+=======
+//jose bryan estrada bernal
+>>>>>>> 3398eb489d9a0273502a96ef440a70b687118967
 =======
 /* Rafael Norman Saucedo Delgado */
 >>>>>>> 38f740b1fb74447a03ca16a49439ac628046e653
