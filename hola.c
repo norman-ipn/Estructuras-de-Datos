@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //jose bryan estrada bernal
+=======
+/* Rafael Norman Saucedo Delgado */
+>>>>>>> 38f740b1fb74447a03ca16a49439ac628046e653
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
