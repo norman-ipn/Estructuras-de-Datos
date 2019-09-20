@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //Arturo Briones Moline 2
+=======
+/*Mauricio Aviles Piña */
+>>>>>>> 700f622f94ae5a5cece552a44f57d63fefbe4816
 =======
 //David Toledo Heredia
 
