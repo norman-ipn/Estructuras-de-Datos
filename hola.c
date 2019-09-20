@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*Mauricio Aviles Piña */
+=======
+//David Toledo Heredia
+
+>>>>>>> 94c8b677dd7672aec3e77a80a10699fb9a92d0e2
 =======
 //jose bryan estrada bernal
 >>>>>>> 3398eb489d9a0273502a96ef440a70b687118967
