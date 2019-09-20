@@ -13,14 +13,21 @@
 #include <stdlib.h>
 >>>>>>> e8dcfdfe352f29fec0dcc0ab19c8f58be651e089
 #include <stdio.h>
+<<<<<<< HEAD
+//Samuel barrios Avila 
+=======
 //Ricardo Santiaho Hernández
+>>>>>>> c2e61430d7b25e6c5e1f9a55aefab0a938594307
 int
 main (void)
 {
 <<<<<<< HEAD
   printf ("Hola mundo?\n");
+<<<<<<< HEAD
+	printf("Samuel Barrios A.");
+=======
+>>>>>>> c2e61430d7b25e6c5e1f9a55aefab0a938594307
   return 0;
-
 
 =======
 
