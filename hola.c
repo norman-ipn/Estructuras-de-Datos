@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //IPN
 <<<<<<< HEAD
@@ -59,3 +60,7 @@ main (void)
   printf ("Hola mundo!!!\n");
 >>>>>>> e8dcfdfe352f29fec0dcc0ab19c8f58be651e089
 
+=======
+/*Mauricio Aviles Piña*/
+ivanna pamela avila reyna
+>>>>>>> be1a2d674728b49932c33cc7e1c841b7a710aa5d
