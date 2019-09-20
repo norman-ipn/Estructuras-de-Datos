@@ -63,4 +63,9 @@ main (void)
 =======
 /*Mauricio Aviles Piña*/
 ivanna pamela avila reyna
+<<<<<<< HEAD
 >>>>>>> be1a2d674728b49932c33cc7e1c841b7a710aa5d
+=======
+Me pica una pompi
+//Gomez Cano Daniel Aaron Bolis man
+>>>>>>> cba00a15e7e87c9baabe55ef685e73f4caf11637
