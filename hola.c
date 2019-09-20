@@ -1,4 +1,12 @@
 <<<<<<< HEAD
+
+Flores Castro Luis Antonio
+
+<<<<<<< HEAD
+monse
+A
+<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -13,11 +21,16 @@
 =======
 //jose bryan estrada bernal
 >>>>>>> 3398eb489d9a0273502a96ef440a70b687118967
+>>>>>>> e5cf5dfaf684fc053a5513de3dad53cbefc48919
 =======
 /* Rafael Norman Saucedo Delgado */
 >>>>>>> 38f740b1fb74447a03ca16a49439ac628046e653
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 38f740b1fb74447a03ca16a49439ac628046e653
+=======
 >>>>>>> 3398eb489d9a0273502a96ef440a70b687118967
+>>>>>>> e5cf5dfaf684fc053a5513de3dad53cbefc48919
 <<<<<<< HEAD
 =======
 #include <stdlib.h>
