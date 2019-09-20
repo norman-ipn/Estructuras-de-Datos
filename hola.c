@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+//Arturo Briones Moline 2
 <<<<<<< HEAD
 =======
 #include <stdlib.h>
