@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+monse
+A
+<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #include <stdlib.h>
