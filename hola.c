@@ -1,13 +1,6 @@
-Me pica una pompi
+Norman
 //Gomez Cano Daniel Aaron Bolis man
-<<<<<<< HEAD
-
-//IPN
-<<<<<<< HEAD
-
 Flores Castro Luis Antonio
-
-<<<<<<< HEAD
 monse
 A
 <<<<<< HEAD
