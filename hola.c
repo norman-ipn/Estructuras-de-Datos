@@ -2,17 +2,9 @@ Norman
 //Gomez Cano Daniel Aaron Bolis man
 Flores Castro Luis Antonio
 monse
-A
-<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 //Arturo Briones Moline 2
-=======
+
 /*Mauricio Aviles Piña */
->>>>>>> 700f622f94ae5a5cece552a44f57d63fefbe4816
-=======
 //David Toledo Heredia
 
 >>>>>>> 94c8b677dd7672aec3e77a80a10699fb9a92d0e2
