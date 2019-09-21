@@ -1,4 +1,5 @@
 /*
+Ramírez Fuentes Edgar Alejandro
 Gomez Cano Daniel Aaron 
 Flores Castro Luis Antonio
 Arturo Briones Moline 
@@ -11,7 +12,6 @@ Ricardo Santiago Hernández
 Mauricio Aviles Piña
 ivanna pamela avila reyna
 Gomez Cano Daniel Aaron 
-Ramírez Fuentes Edgar Alejandro
 */
 #include <stdlib.h>
 #include <stdio.h>
