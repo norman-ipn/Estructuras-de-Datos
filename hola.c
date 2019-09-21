@@ -1,4 +1,5 @@
 /*
+Ramírez Fuentes Edgar Alejandro
 Gomez Cano Daniel Aaron 
 Flores Castro Luis Antonio
 Arturo Briones Moline 
@@ -39,4 +40,3 @@ Me pica una pompi
 //Gomez Cano Daniel Aaron Bolis man
 >>>>>>> cba00a15e7e87c9baabe55ef685e73f4caf11637
 
-// Ramírez Fuentes Edgar Alejandro
