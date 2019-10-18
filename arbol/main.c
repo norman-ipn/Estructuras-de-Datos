@@ -1,4 +1,5 @@
 #include<stdlib.h>
+#include<stdio.h>
 struct Arbol
 {
   int dato;
@@ -36,6 +37,19 @@ insertar (struct Arbol *raiz, int dato)
   return raiz;
 }
 
+void
+mostrar (struct Arbol *raiz)
+{
+  if (raiz == NULL)
+    {
+      return;
+    }
+
+  mostrar (raiz->izquierdo);
+  printf ("%d, ", raiz->dato);
+  mostrar (raiz->derecho);
+}
+
 int
 main (void)
 {
@@ -46,5 +60,6 @@ main (void)
   raiz = insertar (raiz, 510);
   raiz = insertar (raiz, 160);
   raiz = insertar (raiz, 180);
+  mostrar (raiz);
   return 0;
 }
