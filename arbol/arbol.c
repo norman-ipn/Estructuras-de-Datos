@@ -1,6 +1,28 @@
 /*RNSD 2019*/
 #include"arbol.h"
 
+/*
+ 0  no está
+ 1  si está
+*/
+int
+buscar (struct Arbol *raiz, int dato)
+{
+  if (raiz == NULL)
+    {
+      return 0;
+    }
+  if (raiz->dato == dato)
+    {
+      return 1;
+    }
+  if (dato < raiz->dato)
+    {
+      return buscar (raiz->izquierdo, dato);
+    }
+  return buscar (raiz->derecho, dato);
+}
+
 struct Arbol *
 insertar (struct Arbol *raiz, int dato)
 {
@@ -43,4 +65,3 @@ mostrar (struct Arbol *raiz)
   printf ("%d, ", raiz->dato);
   mostrar (raiz->derecho);
 }
-

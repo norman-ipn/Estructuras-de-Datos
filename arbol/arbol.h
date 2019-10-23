@@ -10,9 +10,10 @@ struct Arbol
   struct Arbol *derecho;
 };
 
-struct Arbol *
-insertar (struct Arbol *, int ) ;
+int buscar (struct Arbol *, int);
 
-void
-mostrar (struct Arbol *) ;
+struct Arbol *insertar (struct Arbol *, int);
+
+void mostrar (struct Arbol *);
+
 #endif
