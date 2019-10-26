@@ -11,3 +11,11 @@ que cambia de tamaño en potencias de dos, parecido a los vectores de C++ y Java
 Implementación parcial (sólo insertar y mostrar)
 de un árbol binario de búsqueda, con almacenamiento 
 dinámico.
+
+## Árbol AVL
+
+Implemetación de las funciones de altura y factor de balance.
+
+## GTK+
+
+Ejemplo básico del uso de GTK+
