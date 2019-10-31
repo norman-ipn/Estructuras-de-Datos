@@ -19,3 +19,8 @@ Implemetación de las funciones de altura y factor de balance.
 ## GTK+
 
 Ejemplo básico del uso de GTK+
+
+# Archivos
+
+Ejemplo básico para leer y escribir en una archivo.
+
