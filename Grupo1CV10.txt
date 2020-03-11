@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 Martinez Reyes Wendy Mayli
-=======
+San Juan Velazquez Axel
+Ohtli Tonatiuh García Olvera
+Lopez Ramirez Byron Yael
+Tonatiuh García Olvera
 Chávez Morones Angel Uriel
->>>>>>> fdbebd57ed5db587728404fd0e0dcc47ec9a0089
