@@ -2,7 +2,6 @@ Tenorio Alva Alan Osmani
 San Juan Velazquez Axel
 Medina Sosa Rafael Hayyim
 Christian Acosta Osorio
-Chávez Morones Angel Uriel
 Noguerón Mendoza José Alberto
 Chávez Morones Angel Uriel 
 Tellez Rosas Angel Enrique
@@ -14,7 +13,6 @@ López Lin David
 San Juan Velazquez Axel
 Lopez Ramirez Byron Yael
 Ohti Tonatiuh García Olvera
-Chávez Morones Angel Uriel
 Montiel Gómez Erik Alain
 Vega Alvarez Bryan Alberto 
 rosas arrieta alejandro
