@@ -13,11 +13,8 @@ Ohtli Tonatiuh García Olvera
 Lopez Ramirez Byron Yael
 Tonatiuh García Olvera
 Chávez Morones Angel Uriel
-<<<<<<< HEAD
 Vega Alvarez Bryan Alberto 
-=======
 Oziel Cortes Pina
->>>>>>> 81fa8e951c1e6e6396ca245c063eed20906e6e56
 Hubbard Téllez Helker Emilio
 Hernandez Dominguez Fredy Adair
 Oliva Castillo Maximiliano Owen
