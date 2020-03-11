@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+ALEXIS RODRIGUEZ CUATIANQUIZ
+=======
+Martinez Reyes Wendy Mayli
+Jaime Armando Lozano Amaro 
+>>>>>>> d08dbb6502f818e27d11c62930a128b20f56c3a3
 Salazar González Jaime
 Ohtli Tonatiuh García Olvera
 López Lin David
