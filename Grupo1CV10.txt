@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Christian Acosta Osorio
 Chávez Morones Angel Uriel
+=======
+Jaime Armando Lozano Amaro 
+>>>>>>> cc9b0e83415390ad0d515542259efe6375f08aac
 Salazar González Jaime
 Ohtli Tonatiuh García Olvera
 López Lin David
@@ -11,4 +15,8 @@ Chávez Morones Angel Uriel
 Hubbard Téllez Helker Emilio
 Hernandez Dominguez Fredy Adair
 Oliva Castillo Maximiliano Owen
+<<<<<<< HEAD
 
+=======
+Salvador Gomez Lopez
+>>>>>>> cc9b0e83415390ad0d515542259efe6375f08aac
