@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Martinez Reyes Wendy Mayli
+=======
+Chávez Morones Angel Uriel
+>>>>>>> fdbebd57ed5db587728404fd0e0dcc47ec9a0089
