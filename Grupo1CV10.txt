@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 Ochoa Garcia Cristian Alexis
-=======
+Tenorio Alva Alan Osmani
+San Juan Velazquez Axel
 Medina Sosa Rafael Hayyim
 Christian Acosta Osorio
 Chávez Morones Angel Uriel
 Noguerón Mendoza José Alberto
 Chávez Morones Angel Uriel 
 Tellez Rosas Angel Enrique
->>>>>>> 6b6713fb91c3138ba2a5f8b9df70b4aee82cd8db
 ALEXIS RODRIGUEZ CUATIANQUIZ
 Martinez Reyes Wendy Mayli
 Jaime Armando Lozano Amaro 
